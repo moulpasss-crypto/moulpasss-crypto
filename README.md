@@ -2,7 +2,7 @@
 
 ## About Me
 
-![ex_screenshot](face.jpg)
+![ex_screenshot](face.jpg){: width="300" height="400"}
 
 **NAME** : *Choi HyunJun* &nbsp;
 
